@@ -3,6 +3,14 @@
 </h1>
 
 <h3 align="center">
+O LaunchBase é um treinamento no formato de bootcamp
+online. A cada semana os conteúdos são liberados de acordo com um cronograma,
+guiando o aluno pelas ferramentas e conceitos mais
+modernos de desenvolvimento. 
+HTML5, CSS3, JS, NODE,SQL.
+</h3>
+
+<h3 align="center">
   Desafios: Introdução à programação
 </h3>
 
@@ -22,12 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#-desafios">Sobre os desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
 ## 🚀 Desafios
 
 - [Primeiros passos com JavaScript](01-1-primeiros-passos-com-js.md)
@@ -35,9 +37,6 @@
 - [Funções e estruturas de repetição](01-3-funcoes-e-estruturas-de-repeticao.md)
 - [Aplicação: Operações bancárias](01-4-aplicacao-operacoes-bancarias.md)
 
-## 📅 Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/index.js). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## 📝 Licença
 
